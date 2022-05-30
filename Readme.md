@@ -12,18 +12,18 @@
 
 Untuk menjalankan MySQL Server dari menu XAMPP Control seperti berikut.
 
-![Server](gambar/server.png)
+![Server](img/server.JPG)
 
 ## 2. Membuat Folder Baru
 
 1. Membuat folder `Lab9web` di direktori htdocs
 2. Lalu buat file dengan nama `lab9_php_modular` , kemudian tambahakan seperti berikut.
 
-![File](gambar/file.png)
+![File](img/file.png)
 
 3. Kemudian untuk mengakses direktori tersebut pada web server dengan mengakses URL: http://localhost/Lab9web/lab9_php_modular/
 
-![Koneksi](gambar/konek.png)
+![Koneksi](img/konek.png)
 
 ## 3. Membuat File Header
 
@@ -62,7 +62,7 @@ Untuk menjalankan MySQL Server dari menu XAMPP Control seperti berikut.
 
 ```html
     <footer>
-        <p>&copy; 2022, Informatika, Humam Fathurrahman</p>
+        <p>&copy; 2022, Informatika, rangga saputra</p>
     </footer>
 </body>
 </html>
@@ -100,11 +100,11 @@ Untuk menjalankan MySQL Server dari menu XAMPP Control seperti berikut.
 
 Untuk halaman **Home** tampilannya seperti berikut.
 
-![HasilHome](gambar/hasilhome.png)
+![HasilHome](img/home.png)
 
 Untuk halaman **About** tampilannya seperti berikut.
 
-![HasilAbout](gambar/hasilabout.png)
+![HasilAbout](img/about.png)
 
 # Pertanyaan dan Tugas
 
@@ -114,12 +114,12 @@ Implementasikan konsep modularisasi pada kode program **praktikum 8** tentang da
 
 Tampilan bagian **Home**
 
-![Home](gambar/tampilanhome.png)
+![Home](img/tampilanhome.png)
 
 Tampilan bagian **Tambah Barang**
 
-![Tambah](gambar/tampilantambah.png)
+![Tambah](img/tambahbarang.png)
 
 Tampilan bagian **Ubah Barang**
 
-![Ubah](gambar/tampilanubah.png)
+![Ubah](img/ubahbarang.JPG)
